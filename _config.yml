@@ -1,7 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Signals and Systems	
-course_description: In signal
+course_description: A signal is a description of how one parameter varies with another parameter. For instance, voltage changing over time in an electronic circuit, or brightness varying with distance in an image. A system is any process that produces an output signal in response to an input signal. This is illustrated by the block diagram in Fig. 5-1. Continuous systems input and output continuous signals, such as in analog electronics. Discrete systems input and output discrete signals, such as computer programs that manipulate the values stored in arrays
 
 course_semester: "Fall 2019"
 description: |
