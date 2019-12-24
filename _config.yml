@@ -1,9 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Signals and Systems	
-course_description: In signal processing, a signal is a function that conveys information about a phenomenon.[1] In electronics and telecommunications, it refers to any time varying voltage, current or electromagnetic wave that carries information. A signal may also be defined as an observable change in a quantity.[2]
-
-Any physical quantity that exhibits variation in space or time can be a signal used, among other possibilities, to share messages between observers.[3] According to the IEEE Transactions on Signal Processing, a signal can be audio, video, speech, image, sonar and radar-related and so on.[4] In a later effort of redefining a signal,[2] anything that is only a function of space, such as an image, is excluded from the category of signals. Also, it is stated that a signal may or may not contain any information.
+course_description: signal
 course_semester: "Fall 2019"
 description: |
     Instructor: Dr.Ahmad Akbari
