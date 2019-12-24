@@ -20,7 +20,9 @@ githubdir:
 
 # Author/user information
 email: akbari-at-iust.ac.ir
-authorurl: "http://borken-url.github.io"
+# twitter_username: broken_twitter 
+# github_username:  broken_github
+# authorurl: "http://borken-url.github.io"
 address: |
     School of Computer Engineering
     Iran University of Science and Technology
